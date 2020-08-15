@@ -1,5 +1,8 @@
 # EmployeeManagement
 
+This is a practice frontend application using angular 10.
+Its backend application is present named as "employee-backend"
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
 ## Development server
